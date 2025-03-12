@@ -3,6 +3,8 @@
   "image": "heatherboreharrington1/npool-free-wallet-nknorg:latest",
   "name": "22",
   "enabled": true,
+  "apiKey": dc5952dc6e33b109340994c40bfde6,
+  "project": trrqwk3x17,
   "resources": {
     "machineType": "C4",
     "replicas": 1,

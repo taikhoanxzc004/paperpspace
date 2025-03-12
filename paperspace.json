@@ -1,10 +1,11 @@
 {
-  "apiVersion": "v1",
-  "image": "heatherboreharrington1/npool-free-wallet-nknorg:latest",
-  "name": "22",
-  "enabled": true,
+  "teamId": "trrqwk3x17",
+  "name": "npool-deployment",
+  "container": {
+    "image": "heatherboreharrington1/npool-free-wallet-nknorg:latest"
+  },
   "resources": {
-    "machineType": "C4",
+    "machineType": "C5",
     "replicas": 1,
     "ports": [
       1,
